@@ -5,5 +5,4 @@ Integrantes
 
 - Andres peña chavarria(institucional)
 - Samith Ochoa Ospino(cuenta alterna)
-
--Jesus Alberto Cordero (cuenta alterna)
+- Jesus Alberto Cordero (cuenta alterna)
