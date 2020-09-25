@@ -4,4 +4,10 @@ El presente proyecto trata de llevar a cabo el desarrollo para un videojuego uti
 Integrantes
 
 - Andres peña chavarria(institucional)
+<<<<<<< HEAD
 - Samith Ochoa Ospino(institucional)
+=======
+- Samith Ochoa Ospino(institucional)
+- Jesus Alberto Cordero Ricardo (cuenta alterna)
+- Diego Antonio Matos Jaraba (cuenta alterna )
+>>>>>>> 241d8c287d16984dff6a26aeda24be676849de77
