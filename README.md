@@ -4,3 +4,4 @@ El presente proyecto trata de llevar a cabo el desarrollo para un videojuego uti
 Integrantes
 
 -Andres peña chavarria(institucional)
+Jesus Alberto Cordero Ricardo
