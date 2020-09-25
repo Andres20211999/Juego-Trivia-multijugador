@@ -6,5 +6,5 @@ Integrantes
 - Andres peña chavarria(institucional)
 - Samith Ochoa Ospino(institucional)
 - Jesus Alberto Cordero Ricardo (cuenta alterna)
-- Diego Antonio Matos Jaraba (cuenta alterna )
-
+- Diego Antonio Matos Jaraba (cuenta alterna 
+- Orlando Antonio Ortega Montes (institucional)
