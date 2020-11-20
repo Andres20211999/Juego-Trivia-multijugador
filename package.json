@@ -1,20 +1,20 @@
 {
-  "name": "Juego-Trivia-multijugador",
+  "name": "juegos_online",
   "version": "1.0.0",
-  "description": "El presente proyecto trata de llevar a cabo el desarrollo para un videojuego utilizando clienteservidor, es la creación de un juego básico pero muy popular en los computadores antiguos o comunidad, se trata del “Juego trivia\"",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Andres20211999/Juego-Trivia-multijugador.git"
+    "start": "nodemon server"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Andres20211999/Juego-Trivia-multijugador/issues"
-  },
-  "homepage": "https://github.com/Andres20211999/Juego-Trivia-multijugador#readme"
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.14",
+    "nodemon": "^2.0.6",
+    "socket.io": "^2.3.0"
+  }
 }
